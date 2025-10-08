@@ -1,6 +1,7 @@
-# Welcome to your Expo app 👋
+# Foody 🍔🍰🎂
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Foody** is a food discovery and ordering mobile app built with **React Native** and **Expo**.  
+Users can explore trending food items, search restaurants, check categories, and place orders with a timer-based discount feature.
 
 ## Get started
 
