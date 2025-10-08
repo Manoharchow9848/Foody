@@ -45,4 +45,9 @@ mpm install
 ```bash
 npx expo start
 ```
+4. Install expo go on mobile
+
+5. Make sure your system and mobile connect to same network
+
+6. Scan Qr from terminal, Then foody app will open
 
